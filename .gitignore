@@ -78,9 +78,7 @@ dmypy.json
 .env
 .env.*
 
-# Docker files
-**/Dockerfile
-**/docker-compose.yml
+
 
 # OS generated files
 .DS_Store
