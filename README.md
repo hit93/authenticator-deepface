@@ -105,10 +105,6 @@ face_auth_app/
 
 Contributions are welcome! Please create an issue or submit a pull request for any changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Flask](https://flask.palletsprojects.com/)
